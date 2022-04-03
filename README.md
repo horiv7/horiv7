@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 ## Hi. I'm Goran 👋👩🏼‍💻
 </br> 
 
-### I'm Self-Taught Angular Developer
-</hr> 
-- 🔭 I’m currently working on the third iteration of my personal portfolio.
-- 🌱 I’m currently learning Jasmine, NodeJs & .
-- 💬 Feel free to ask me about anything!
-- 👩🏼 Pronouns: he/his
-- ⚡️ Fun fact: I love building usefull apps!
-- 🏡 website | 🐦 twitter | 🎏 glitch | 🗓 timeline | 👔 linkedin
+# I'm Self-Taught Angular Developer
+</hr>   
+- 🔭 I’m currently working on the third iteration of my personal portfolio.  
+- 🌱 I’m currently learning Jasmine, NodeJs & .  
+- 💬 Feel free to ask me about anything!  
+- 👩🏼 Pronouns: he/his  
+- ⚡️ Fun fact: I love building usefull apps!  
+- 🏡 website | 🐦 twitter | 🎏 glitch | 🗓 timeline | 👔 linkedin  
