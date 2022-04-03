@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **horiv7/horiv7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,11 +16,10 @@ Here are some ideas to get you started:
 </br> 
 
 ### I'm Self-Taught Angular Developer
-</br> 
-
-🔭 I’m currently working on the third iteration of my personal portfolio.
-🌱 I’m currently learning Jasmine, NodeJs & .
-💬 Feel free to ask me about anything!
-👩🏼 Pronouns: he/his
-⚡️ Fun fact: I love building usefull apps!
-🏡 website | 🐦 twitter | 🎏 glitch | 🗓 timeline | 👔 linkedin
+</hr> 
+- 🔭 I’m currently working on the third iteration of my personal portfolio.
+- 🌱 I’m currently learning Jasmine, NodeJs & .
+- 💬 Feel free to ask me about anything!
+- 👩🏼 Pronouns: he/his
+- ⚡️ Fun fact: I love building usefull apps!
+- 🏡 website | 🐦 twitter | 🎏 glitch | 🗓 timeline | 👔 linkedin
