@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # I'm Self-Taught Angular Developer
 </hr>   
-- 🔭 I’m currently working on the third iteration of my personal portfolio.  
-- 🌱 I’m currently learning Jasmine, NodeJs & .  
-- 💬 Feel free to ask me about anything!  
-- 👩🏼 Pronouns: he/his  
-- ⚡️ Fun fact: I love building usefull apps!  
-- 🏡 website | 🐦 twitter | 🎏 glitch | 🗓 timeline | 👔 linkedin  
+- 🔭 I’m currently working on the third iteration of my personal portfolio.<br/>
+- 🌱 I’m currently learning Jasmine, NodeJs & .<br/>
+- 💬 Feel free to ask me about anything!<br/>
+- 👩🏼 Pronouns: he/his<br/>
+- ⚡️ Fun fact: I love building usefull apps!<br/>
+- 🏡 website | 🐦 twitter | 🎏 glitch | 🗓 timeline | 👔 linkedin<br/>
