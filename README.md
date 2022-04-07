@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the second iteration of my personal portfolio.<br/>
 - 🌱 I’m currently learning Jasmine, NodeJs & RxJs.<br/>
 - 💬 Feel free to ask me about anything!<br/>
-- 👩🏼 Pronouns: he/his<br/>
 - ⚡️ Fun fact: I love building usefull apps!<br/>
 - 🏡 website | 🐦 twitter | 🎏 glitch | 🗓 timeline | 👔 linkedin<br/>
