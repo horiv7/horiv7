@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi. I'm Goran 👋👩🏼‍💻
 </br> 
 
-# I'm Yet another Self-Taught Angular Developer
+# I'm Yet Another Self-Taught Angular Developer
 </hr>   
 - 🔭 I’m currently working on the App for medical registration.<br/>
 - 💬 Ask me only if you have to.<br/>
