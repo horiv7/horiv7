@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 ## Hi. I'm Goran 👋👩🏼‍💻
 </br> 
 
-# I'm Self-Taught Angular Developer
+# I'm Yet another Self-Taught Angular Developer
 </hr>   
-- 🔭 I’m currently working on the second iteration of my personal portfolio.<br/>
-- 🌱 I’m currently learning Jasmine, NodeJs & RxJs.<br/>
-- 💬 Feel free to ask me about anything!<br/>
-- ⚡️ Fun fact: I love building usefull apps!<br/>
-- 🏡 website | 🐦 twitter | 🎏 glitch | 🗓 timeline | 👔 linkedin<br/>
+- 🔭 I’m currently working on the App for medical registration.<br/>
+- 💬 Ask me only if you have to.<br/>
+- 📫 Reach me:  goran.workmail@gmail.com
+- ⚡️ Fun fact: There are no fun facts in coding.<br/> 
+- 🏡 [website](horiv7.xyz) <br/>
