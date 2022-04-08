@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi. I'm Goran 👋👩🏼‍💻
+## Hi. I'm Goran  🏼‍💻
 </br> 
 
 # I'm Yet Another Self-Taught Angular Developer
