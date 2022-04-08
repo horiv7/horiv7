@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 </hr>   
 - 🔭 I’m currently working on the App for medical registration.<br/>
 - 💬 Ask me only if you have to.<br/>
-- 📫 Reach me:  goran.workmail@gmail.com
+- 📫 Reach me:  goran.workmail@gmail.com<br/> 
 - ⚡️ Fun fact: There are no fun facts in coding.<br/> 
-- 🏡 [website](https://horiv7.xyz) 
+- 🏡 [Portfolio](https://horiv7.xyz) 
