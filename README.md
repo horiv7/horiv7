@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me only if you have to.<br/>
 - 📫 Reach me:  goran.workmail@gmail.com<br/> 
 - ⚡️ Fun fact: There are no fun facts in coding.<br/> 
-- 🏡 [Portfolio](https://horiv7.xyz) 
+- 🏡 website: https://horiv7.xyz
