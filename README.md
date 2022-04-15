@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 # I'm Yet Another Self-Taught Angular Developer
 </hr>   
 - 🔭 I’m currently working on the App for medical registration.<br/>
-- 💬 Ask me only if you have to.<br/>
 - 📫 Reach me:  goran.workmail@gmail.com<br/> 
 - 🏡 website: https://horiv7.xyz
