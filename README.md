@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # I'm Yet Another Self-Taught Angular Developer
 </hr>   
-- 🔭 I’m currently working on the App for medical registration.<br/>
+- 🔭 I’m currently working on the Chrome Extension.<br/>
 - 📫 Reach me:  goran.workmail@gmail.com<br/> 
 - 🏡 website: https://horiv7.xyz
 -->
