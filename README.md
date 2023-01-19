@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi. I'm Goran  🏼‍💻
 </br> 
 
-# I'm Yet Another Self-Taught Frontend Developer
+# A Frontend Developer Who Learned Everything The Hard Way.
 </hr>   
 - 🔭 I’m currently working on the Chrome Extension.<br/>
 - 📫 Reach me:  goran.workmail@gmail.com<br/> 
